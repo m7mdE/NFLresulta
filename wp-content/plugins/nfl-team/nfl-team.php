@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: NFL Team Plugin
+ * Plugin Name: NFL Team
  * Description: Plugin calls API team
  * Version: 1.0
  * Author: Moe
